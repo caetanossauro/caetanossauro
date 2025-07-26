@@ -1,56 +1,81 @@
-# 💻 Olá, eu sou o Victor!
-
-<p align="left">
-  Desenvolvedor em formação, buscando criar soluções modernas, acessíveis e com propósito.<br>
-  Atualmente foco meus estudos em <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, com planos de aprofundar em <strong>React</strong> e <strong>Bootstrap</strong> em breve.<br>
-  Também estudo <strong>Python</strong> e <strong>Django</strong> para construir aplicações fullstack e transformar teoria em projetos reais.
+<!-- Animated Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Olá,+Eu+sou+o+Cleidson!;Data+analist+%7C+Data+scientist;Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /> 
 </p>
+
+Estudante de **Data Science** apaixonado por desvendar os segredos dos dados e transformá-los em insights poderosos.
+
+Minha missão é construir soluções inteligentes, seja com **Python** na ciência de dados ou com **JavaScript** para automações que facilitam a vida (e criam umas mágicas com produtos Google!).
 
 
 ## Sobre mim
 
-- 🧠 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💼 Servidor público em transição de carreira para tecnologia  
-- 📚 Estudando HTML, CSS, JavaScript, com planos de aprofundar em React e Bootstrap  
-- 🐍 Estudando Python e Django para backend e desenvolvimento fullstack  
-- 🥋 Faixa preta de karatê, pai coruja e fã de cultura geek  
-- 🌍 Buscando aplicar meus conhecimentos em projetos reais e contribuir com soluções de impacto positivo  
+* Estudante de Data Science com foco em análise e inteligência artificial
+
+* Expert em Python para manipulação e visualização de dados, machine learning e mais!
+
+* Desenvolvo scripts em JavaScript para automações criativas com a suíte Google (sim, eu adoro ver as coisas funcionando sozinhas!)
+
+* Pai coruja de jabuti e entusiasta de IoT (tenho até um sistema de monitoramento para a minha com ESP8266!)
+
+* Buscando aprender, contribuir com projetos open source e aplicar meus conhecimentos para gerar impacto positivo. 
 
 
 
 ---
 
 
-## ⭐ GitHub Stats
+## GitHub Stats
 
-<a href="https://github.com/victormelkor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormelkor&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormelkor&layout=compact&langs_count=6&theme=radical&count_weight=0.05&size_weight=0.04&hide=powershell,batchfile,shell" />
+<a href="https://github.com/caetanossauro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caetanossauro&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanossauro&layout=compact&langs_count=6&theme=radical&count_weight=0.05&size_weight=0.04&hide=powershell,batchfile,shell" />
 
 
 </a>
 
 ---
 
-## 📚 Meus estudos
+## Meus Projetos em Destaque
+Organizo meus projetos e experimentos por aqui. Se liga em alguns que eu curto:
 
-Organizo meus aprendizados e anotações no meu repositório de estudos no GitHub: [estudos-fullstack](https://github.com/VictorMelkor/estudos-fullstack).  
-Lá você encontra resumos, projetos pessoais, desafios resolvidos e anotações de cursos técnicos e acadêmicos.
+Análise e Teste de Hipótese (healthcare): Um exemplo prático de como transformar dados brutos em conclusões valiosas. [Clique aqui](https://github.com/caetanossauro/Teste-de-hip-tese-healthcare)
 
-> Estou sempre aberto a sugestões e acredito que ajudar outros desenvolvedores é também uma das melhores formas de aprender
+Automação de Documentos com Google Forms: Cansado de criar documentos na mão? Eu automatizei isso! Um script JS que gera documentos a partir de envios de formulário. [Clique aqui](https://github.com/caetanossauro/automa-o-de-processo-com-ferramentas-google)
+
+Sistema de Monitoramento Ativo para Jabuti (com ESP8266): Sim, eu montei um sistema de IoT para a minha jabuti! Monitoramento em tempo real com ESP8266. [Clique aqui](https://github.com/caetanossauro/Flor_IoT)
+
+Estou sempre aberto a novas ideias e acredito que a melhor forma de aprender é construindo e compartilhando!
+
+Tecnologias e linguagens 
+Ferramentas de Análise e Visualização
+Machine Learning e IA
+
+ ### 🛠️ Ferramentas de Desenvolvimento
+Minhas principais ferramentas são o Python para tudo relacionado a análise de dados, ciência de dados e inteligência artificial. Também me aventuro com JavaScript para automações e integrações com produtos Google.
 
 
+Acredito no poder dos dados para contar histórias e resolver problemas, e estou sempre em busca de novos desafios para expandir meu conhecimento e transformar a teoria em projetos reais e impactantes.
+
+
+Vamos nos conectar e trocar uma ideia sobre dados, IA e automações? 💌✨
 ---
 
 ## Tecnologias e linguagens 💻
 
-[![Linguagens](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![Frameworks](https://skillicons.dev/icons?i=django,react,bootstrap)](https://skillicons.dev)
+* ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+* ![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
+* ![Plotly](https://img.shields.io/badge/Plotly-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
+* ![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white)
+* ![Pytesseract](https://img.shields.io/badge/Pytesseract-2C2D72?style=for-the-badge&logo=pytesseract&logoColor=white)
+* ![Numpy](https://img.shields.io/badge/Numpy-2C2D72?style=for-the-badge&logo=scipy&logoColor=white)
+* Scipy
 
 ### 🗄️ Banco de dados e Containers
-[![DB e Containers](https://skillicons.dev/icons?i=postgres,docker)](https://skillicons.dev)
+* 
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
