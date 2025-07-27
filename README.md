@@ -71,59 +71,50 @@ Vamos nos conectar e trocar uma ideia sobre dados, IA e automações? 💌✨
 * ![Plotly](https://img.shields.io/badge/Plotly-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
 * ![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white)
 * ![Pytesseract](https://img.shields.io/badge/Pytesseract-2C2D72?style=for-the-badge&logo=pytesseract&logoColor=white)
-* ![Numpy](https://img.shields.io/badge/Numpy-2C2D72?style=for-the-badge&logo=scipy&logoColor=white)
-* Scipy
+* ![Numpy](https://img.shields.io/badge/Numpy-2C2D72?style=for-the-badge&logo=numpy&logoColor=white)
+* ![Scipy](https://img.shields.io/badge/Scipy-2C2D72?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 🗄️ Banco de dados e Containers
 * 
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <p align="left">
-  Atualmente estudo <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, com planos de aprofundar em <strong>React</strong> e <strong>Bootstrap</strong> no front-end.<br>
-  No back-end, foco em <strong>Python</strong> e <strong>Django</strong>. Também exploro tecnologias como <strong>PostgreSQL</strong>, <strong>Docker</strong> e boas práticas de versionamento com <strong>Git</strong>.<br><br>
-  Acredito em aprender fazendo — por isso busco sempre transformar conhecimento em projetos práticos, explorando tanto o lado técnico quanto o criativo da programação.
-</p>
+ Em constante evolução no mundo da tecnologia! Minha paixão atual é Data Science e Data Analysis, onde adoro explorar o poder de bibliotecas como *Pandas*, *NumPy*, *Seaborn*, *Plotly*, *SciPy* e *Scikit-learn* para extrair valor e contar histórias através dos dados.
+
+Paralelamente, continuo afiando minhas habilidades em automação de processos sistêmicos: tenho experiência em automação com produtos Google para facilitar o dia a dia.
+
+Minha filosofia é clara: aprender fazendo. Cada linha de código, análise de dados ou script de automação se torna um passo para um novo projeto, unindo técnica e criatividade. 
+  
+Que tal nos conectarmos e vermos como podemos criar, analisar ou otimizar algo impactante juntos? Me chame por e-mail, WhatsApp ou me siga nas redes!
+
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, chama no WhatsApp ou me segue nas redes! 💌✨
-</p>
-
-
-<p align="left">
-  <a href="https://victormelkor.github.io/" title="Portfólio">
+  <a href="https://github.com/caetanossauro/" title="Portfólio">
     <img src="https://img.shields.io/badge/-Portfólio-1f425f?style=flat-square&logo=github&logoColor=white" alt="Portfólio"/>
   </a>
-  <a href="mailto:victor.melkor@gmail.com" title="Gmail">
+  <a href="queusantos858@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/victormelkor" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/CleiOliveira" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/victormelkor" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://wa.me/5562982147845" title="WhatsApp">
+  <a href="https://wa.me/5571985234510" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=victormelkor.victormelkor&left_color=blueviolet&right_color=purple" width="80" />
-</div>
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=victormelkor&bg_color=0d1117&color=8257e6&line=38bdf8&point=8257e6&area=true&area_color=38bdf8&hide_border=true" alt="Victor's github activity graph" style="width:80%; height:auto;" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caetanossauro&bg_color=0d1117&color=8257e6&line=38bdf8&point=8257e6&area=true&area_color=38bdf8&hide_border=true" alt="Cleidson's github activity graph" style="width:80%; height:auto;" />
 
 
-  <img src="https://streak-stats.demolab.com?user=victormelkor&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/> <br/>
+  <img src="https://streak-stats.demolab.com?user=caetanossauro&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/> <br/>
  
 
 </div>
