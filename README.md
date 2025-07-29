@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&width=1080&color=0:8257e6,100:38bdf8&text=Cleidson%20Oliveira&reversal=false&fontColor=0d1117&fontAlignY=30"/> 
 <!-- Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Olá,+Eu+sou+o+Cleidson!;Data+analist+%7C+Data+scientist;Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Olá,+Eu+sou+o+Cleidson!;Data+analyst+%7C+Data+scientist;Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /> 
 </p>
 
 Em constante evolução no mundo da tecnologia! Minha paixão atual é Data Science e Data Analysis, onde adoro explorar o poder de bibliotecas como **Pandas**, **NumPy**, **Seaborn**, **Plotly**, **SciPy** e **Scikit-learn** para extrair valor e contar histórias através dos dados.
