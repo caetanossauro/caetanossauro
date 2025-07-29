@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&width=1080&color=0:8257e6,100:38bdf8&text=Cleidson%20Oliveira&reversal=false&fontColor=0d1117&fontAlignY=30"/> 
 <!-- Animated Title -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Olá,+Eu+sou+o+Cleidson!;Data+analist+%7C+Data+scientist;Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /> 
@@ -26,13 +27,12 @@ Minha missão é construir soluções inteligentes, seja com **Python** na ciên
 
 
 ## GitHub Stats
-
+<div align="center">
 <a href="https://github.com/caetanossauro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caetanossauro&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanossauro&layout=compact&langs_count=6&theme=radical&count_weight=0.05&size_weight=0.04&hide=powershell,batchfile,shell" />
-
-
 </a>
+</div>
 
 ---
 
@@ -51,55 +51,34 @@ Tecnologias e linguagens
 Ferramentas de Análise e Visualização
 Machine Learning e IA
 
- ### 🛠️ Ferramentas de Desenvolvimento
+ ### Ferramentas de Desenvolvimento
 Minhas principais ferramentas são o Python para tudo relacionado a análise de dados, ciência de dados e inteligência artificial. Também me aventuro com JavaScript para automações e integrações com produtos Google.
 
 
 Acredito no poder dos dados para contar histórias e resolver problemas, e estou sempre em busca de novos desafios para expandir meu conhecimento e transformar a teoria em projetos reais e impactantes.
-
-
-Vamos nos conectar e trocar uma ideia sobre dados, IA e automações? 💌✨
 ---
 
-## Tecnologias e linguagens 💻
+## Tecnologias e linguagens
 
 [![Linguagens](https://skillicons.dev/icons?i=python,js)](https://skillicons.dev)
 
-### 🚀 Frameworks e bibliotecas
-* ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-* ![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
-* ![Plotly](https://img.shields.io/badge/Plotly-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
-* ![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white)
-* ![Pytesseract](https://img.shields.io/badge/Pytesseract-2C2D72?style=for-the-badge&logo=pytesseract&logoColor=white)
-* ![Numpy](https://img.shields.io/badge/Numpy-2C2D72?style=for-the-badge&logo=numpy&logoColor=white)
-* ![Scipy](https://img.shields.io/badge/Scipy-2C2D72?style=for-the-badge&logo=scipy&logoColor=white)
+### Frameworks e bibliotecas
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white) ![Pytesseract](https://img.shields.io/badge/Pytesseract-2C2D72?style=for-the-badge&logo=pytesseract&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Meta](https://img.shields.io/badge/Prophet-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
-### 🗄️ Banco de dados e Containers
-* 
+### Ferramentas de desenvolvimento
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,sqlite)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
-[![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-
-<p align="left">
- Em constante evolução no mundo da tecnologia! Minha paixão atual é Data Science e Data Analysis, onde adoro explorar o poder de bibliotecas como *Pandas*, *NumPy*, *Seaborn*, *Plotly*, *SciPy* e *Scikit-learn* para extrair valor e contar histórias através dos dados.
+Em constante evolução no mundo da tecnologia! Minha paixão atual é Data Science e Data Analysis, onde adoro explorar o poder de bibliotecas como **Pandas**, **NumPy**, **Seaborn**, **Plotly**, **SciPy** e **Scikit-learn** para extrair valor e contar histórias através dos dados.
 
 Paralelamente, continuo afiando minhas habilidades em automação de processos sistêmicos: tenho experiência em automação com produtos Google para facilitar o dia a dia.
 
 Minha filosofia é clara: aprender fazendo. Cada linha de código, análise de dados ou script de automação se torna um passo para um novo projeto, unindo técnica e criatividade. 
   
-Que tal nos conectarmos e vermos como podemos criar, analisar ou otimizar algo impactante juntos? Me chame por e-mail, WhatsApp ou me siga nas redes!
+## Vamos nos conectar e trocar uma ideia sobre dados, IA e automações?
 
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/caetanossauro/" title="Portfólio">
     <img src="https://img.shields.io/badge/-Portfólio-1f425f?style=flat-square&logo=github&logoColor=white" alt="Portfólio"/>
-  </a>
-  <a href="queusantos858@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/CleiOliveira" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
@@ -110,13 +89,7 @@ Que tal nos conectarmos e vermos como podemos criar, analisar ou otimizar algo i
 </p>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caetanossauro&bg_color=0d1117&color=8257e6&line=38bdf8&point=8257e6&area=true&area_color=38bdf8&hide_border=true" alt="Cleidson's github activity graph" style="width:80%; height:auto;" />
-
-
-  <img src="https://streak-stats.demolab.com?user=caetanossauro&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"/> <br/>
- 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caetanossauro&bg_color=0d1117&color=8257e6&line=38bdf8&point=8257e6&area=true&area_color=38bdf8&hide_border=true" alt="Cleidson's github activity graph" style="width:80%; height:auto;" /> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8257e6,100:38bdf8"/> 
